@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michele!</a></h1>
-<h3 align="center">A passionate Software Engineer from Estonia</h3>
-
+<h3 align="center">A brazilian passionate about technology</h3>
 
 
 - 🔭 I’m currently working in <a href="https://https://portal.ifma.edu.br">**IFMA**
