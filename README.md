@@ -1,7 +1,7 @@
 <div style="background-color: #222; color: #fff; padding: 20px;">
 
   <h1 align="center">Hi 👋, I'm Michele!</a></h1>
-  <h3 align="center">A brazilian passionate about technology</h3>
+  <h3 align="center">Welcome!</h3>
   
   
   - 🔭 I’m currently working in <a href="https://portal.ifma.edu.br">**IFMA**
