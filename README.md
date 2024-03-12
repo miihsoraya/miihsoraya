@@ -2,7 +2,7 @@
 <h3 align="center">A brazilian passionate about technology</h3>
 
 
-- 🔭 I’m currently working in <a href="https://https://portal.ifma.edu.br">**IFMA**
+- 🔭 I’m currently working in <a href="https://portal.ifma.edu.br">**IFMA**
 
 - 🌱 I’m currently improving my skills in **data analysis**
 
