@@ -1,3 +1,5 @@
+<div style="background-color: #111; color: #fff; padding: 20px;">
+
 <h1 align="center">Hi 👋, I'm Michele!</a></h1>
 <h3 align="center">A brazilian passionate about technology</h3>
 
@@ -6,7 +8,7 @@
 
 - 🌱 I’m currently improving my skills in **data analysis**
 
-- 📫 How to reach me: You can write me on [linkedin](https://https://www.linkedin.com/in/michelesoraya/)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/michelesoraya/)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/90/e2/d1/90e2d11790a1868b8cdb976c1ef3e379.gif" alt="ball" width="405" height="94">
@@ -24,3 +26,4 @@
   <a href="https://www.python.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="python" width="40" height="40"/> </a>
 </p>
 
+</div>
