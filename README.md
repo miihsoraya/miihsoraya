@@ -8,7 +8,7 @@
   
   - 🌱 I’m currently improving my skills in **data analysis**
   
-  - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/michelesoraya/) or [email](michelesoraya1@gmail.com)
+  - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/michelesoraya/) or michelesoraya1@gmail.com
   
   <p align="center">
     <img src="https://i.pinimg.com/originals/90/e2/d1/90e2d11790a1868b8cdb976c1ef3e379.gif" alt="ball" width="405" height="94">
