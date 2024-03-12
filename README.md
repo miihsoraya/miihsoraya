@@ -22,8 +22,41 @@
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.python.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20190623/yp/kisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg" alt="python" width="40" height="40"></a>&nbsp;
+    <a href="https://git-scm.com/" title="Git"><img loading="lazy" height="40" src="https://cdn.simpleicons.org/Git/f05032"></a>&nbsp;
+    <a href="https://www.open-std.org/jtc1/sc22/wg14/" title="C Lang"><img loading="lazy" src="https://cdn.simpleicons.org/C/a8b9cc" width="40" height="40"></a>
   </p>
+
+## Open Source -
+[![Robotica](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Robotica&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Robotica)
+[![Chat_SD](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Chat_SD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Chat_SD)
+
+
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/miihsoraya">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miihsoraya&theme=radical&border=7F3FBF&background=0D1117" alt="MiihSoraya GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/miihsoraya">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miihsoraya&theme=radical" alt="MiihSoraya GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miihsoraya&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miihsoraya&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 </div>
