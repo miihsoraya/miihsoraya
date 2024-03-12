@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michele!</a></h1>
 <h3 align="center">A passionate Software Engineer from Estonia</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matrix278&label=Profile%20views&color=48c030&style=flat" height="25" width="130" alt="matrix278" />
-</div>
 
-<!-- <div align="center"> <img src="https://github.com/Matrix278/Matrix278/blob/master/assets/matrix-has-you.gif" alt="matrix278" /> </div> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
 - 🔭 I’m currently working in <a href="https://https://portal.ifma.edu.br">**IFMA**
 
