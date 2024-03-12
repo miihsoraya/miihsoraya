@@ -10,9 +10,9 @@
   
   - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/michelesoraya/) or michelesoraya1@gmail.com
   
-  <p align="center">
+  <!--<p align="center">
     <img src="https://i.pinimg.com/originals/90/e2/d1/90e2d11790a1868b8cdb976c1ef3e379.gif" alt="ball" width="405" height="94">
-  </p>
+  </p>-->
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -29,12 +29,12 @@
   </p>
 
 ## Open Source -
-[![Robotica](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Robotica&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Robotica)
-[![Chat_SD](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Chat_SD&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Chat_SD)
+[![Robotica](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Robotica&border_color=3fa8bf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Robotica)
+[![Chat_SD](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Chat_SD&border_color=3fa8bf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Chat_SD)
 
 
 <p align="left">
-  <a href="https://github.com/miihsoraya?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/miihsoraya?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-495ec9?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -43,8 +43,8 @@
 
 <p align="center">
   <a href="https://github.com/miihsoraya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miihsoraya&theme=radical&border=7F3FBF&background=0D1117" alt="MiihSoraya GitHub streak"/>
-  </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miihsoraya&theme=radical&border=3fa8bf&background=0D1117" alt="MiihSoraya GitHub streak"/></a>
+  <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miihsoraya&langs_count=8&layout=compact&theme=react&border_color=3fa8bf&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
 <p align="center">
@@ -54,8 +54,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=miihsoraya&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miihsoraya&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  
+
   <br/>
 </a>
 
