@@ -30,7 +30,7 @@
 
 ## Open Source -
 [![Robotica](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Robotica&border_color=3fa8bf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Robotica)
-[![Chat_SD](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Chat_SD&border_color=3fa8bf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Chat_SD)
+[![Trilhas Inova - MA](https://github-readme-stats.vercel.app/api/pin/?username=miihsoraya&repo=Trilhas-Inova&border_color=3fa8bf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/miihsoraya/Trilhas-Inova)
 
 
 <p align="left">
