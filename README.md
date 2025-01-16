@@ -41,9 +41,7 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/miihsoraya">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miihsoraya&theme=radical&border=3fa8bf&background=0D1117" alt="MiihSoraya GitHub streak"/></a>
+<p align="center">   
   <a href="https://github.com/miihsoraya"><img alt="MiihSoraya Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=miihsoraya&langs_count=8&layout=compact&theme=react&border_color=3fa8bf&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
